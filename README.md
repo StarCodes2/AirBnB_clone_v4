@@ -1,3 +1,6 @@
+# AirBnB Clone v4
+The Version 4 of this AirBnb clone project aims to finally make a full fledged dynamic web app similar to the official website.
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
